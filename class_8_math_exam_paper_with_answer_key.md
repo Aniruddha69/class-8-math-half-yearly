@@ -176,7 +176,7 @@ During a festive season, an electronics store offers special discounts. Rahul wa
 
 ---
 
-## ANSWER KEY & SOLUTIONS
+<!--## ANSWER KEY & SOLUTIONS
 
 ### Section A: MCQ Answers
 1. **b** ($1$)
@@ -303,3 +303,4 @@ $= 2 \times 2 \times 2 \times 5 \times 11 \times 11 \times 11$
 Grouped as: $\underline{2 \times 2 \times 2} \times 5 \times \underline{11 \times 11 \times 11}$
 The prime factor $5$ does not appear in a group of three. So, $53240$ is not a perfect cube.
 The smallest whole number by which it must be divided is $5$.
+-->
