@@ -224,7 +224,7 @@ Also state the laws of exponents used.
    4. State the property of opposite angles used.
 
 ---
-
+<!--
 # Answer Key / Solutions
 
 ## Section A — MCQs
@@ -595,3 +595,4 @@ $$
 $$
 
 Property used: **Opposite angles of a parallelogram are equal.**
+-->   
