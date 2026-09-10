@@ -1,4 +1,5 @@
 # Class 8 Mathematics Practice Paper & Answer Key
+
 **Syllabus:** NCERT Chapters 1-7 (Rational Numbers, Linear Equations in One Variable, Understanding Quadrilaterals, Data Handling, Squares and Square Roots, Cubes and Cube Roots, Comparing Quantities)
 **Total Questions:** 38 | **Max Marks:** 80
 
@@ -9,140 +10,229 @@
 ### Section A: Multiple Choice Questions (1 Mark Each)
 
 **1. What is the multiplicative identity for rational numbers?**
+
 a) $0$
+
 b) $1$
+
 c) $-1$
+
 d) Not defined
 
 **2. The reciprocal of** $\frac{-5}{7}$ **is:**
+
 a) $\frac{5}{7}$
+
 b) $\frac{-7}{5}$
+
 c) $\frac{7}{5}$
+
 d) $1$
 
 **3. What is the solution to the equation** $2x - 3 = 7$**?**
+
 a) $2$
+
 b) $4$
+
 c) $5$
+
 d) $10$
 
 **4. Which of the following is a linear equation in one variable?**
+
 a) $x^2 + 1 = 0$
+
 b) $2x + y = 5$
+
 c) $3x - 5 = 10$
+
 d) $x^3 = 8$
 
 **5. The sum of the measures of the exterior angles of any convex polygon is:**
+
 a) $180^\circ$
+
 b) $360^\circ$
+
 c) $540^\circ$
+
 d) $720^\circ$
 
 **6. How many diagonals does a regular pentagon have?**
+
 a) $3$
+
 b) $4$
+
 c) $5$
+
 d) $6$
 
 **7. A coin is tossed. What is the probability of getting a tail?**
+
 a) $0$
+
 b) $\frac{1}{2}$
+
 c) $1$
+
 d) $2$
 
 **8. The central angle of a complete circle in a pie chart is:**
+
 a) $90^\circ$
+
 b) $180^\circ$
+
 c) $270^\circ$
+
 d) $360^\circ$
 
 **9. The square of** $14$ **is:**
+
 a) $124$
+
 b) $144$
+
 c) $196$
+
 d) $225$
 
 **10. What is the square root of** $225$**?**
+
 a) $12$
+
 b) $15$
+
 c) $25$
+
 d) $35$
 
 **11. Which of the following numbers is NOT a perfect square?**
+
 a) $100$
+
 b) $144$
+
 c) $222$
+
 d) $256$
 
 **12. The cube of** $6$ **is:**
+
 a) $36$
+
 b) $126$
+
 c) $216$
+
 d) $256$
 
 **13. What is the cube root of** $512$**?**
+
 a) $6$
+
 b) $7$
+
 c) $8$
+
 d) $9$
 
 **14. The ratio** $3:4$ **expressed as a percentage is:**
 a) $40\%$
+
 b) $60\%$
+
 c) $75\%$
+
 d) $80\%$
 
 **15. If a shirt marked at ₹**$800$ **is sold for ₹**$680$**, the discount percentage is:**
+
 a) $10\%$
+
 b) $15\%$
+
 c) $20\%$
+
 d) $25\%$
 
 **16. What is the unit digit in the square of** $1234$**?**
+
 a) $2$
+
 b) $4$
+
 c) $6$
+
 d) $8$
 
 **17. A quadrilateral with all sides equal and all angles measuring** $90^\circ$ **is a:**
+
 a) Rectangle
+
 b) Rhombus
+
 c) Kite
+
 d) Square
 
 **18. Which rational number does not have a reciprocal?**
 a) $1$
+
 b) $-1$
+
 c) $0$
+
 d) $\frac{1}{2}$
 
 **19. If** $x = 3$**, then the value of** $3x - 2$ **is:**
+
 a) $4$
+
 b) $7$
+
 c) $9$
+
 d) $11$
 
 **20. What is the formula for compound interest (where** $A$ **is amount,** $P$ **is principal,** $R$ **is rate,** $T$ **is time)?**
+
 a) $\frac{P \times R \times T}{100}$
+
 b) $A - P$
+
 c) $P - A$
+
 d) $P(1 + \frac{R}{100})^{T}$
+
 
 ### Section B: Very Short Answer Questions (2 Marks Each)
 
 **21.** Find two rational numbers between $\frac{-2}{5}$ and $\frac{1}{2}$.
+
 **22.** Solve the equation: $5t - 3 = 3t - 5$.
+
 **23.** Find the measure of each exterior angle of a regular polygon with $9$ sides.
+
 **24.** Find the square root of $729$ using the prime factorization method.
+
 **25.** A picnic is being planned in a school for Class VIII. Girls are $60\%$ of the total number of students and are $18$ in number. Find the total number of students in the class.
 
 ### Section C: Short Answer Questions (3 Marks Each)
 
 **26.** Represent $\frac{-5}{6}$ and $\frac{7}{6}$ on a number line.
+
 **27.** The perimeter of a rectangular swimming pool is $154$ meters. Its length is $2$ meters more than twice its breadth. What are the length and breadth of the pool?
+
 **28.** In a parallelogram $ABCD$, the measure of $\angle A$ is $70^\circ$. Find the measure of the remaining angles ($\angle B$, $\angle C$, and $\angle D$).
+
 **29.** Find the smallest whole number by which $252$ must be multiplied to get a perfect square. Also, find the square root of the new square number.
-**30.** Find the cube root of $13824$ by the prime factorization method.
+
+**30.** Find the cube root of $13824$ by the prime factorization 
+method.
+
 **31.** A shopkeeper bought two fans for ₹$1200$ each. He sold one at a loss of $5\%$ and the other at a profit of $10\%$. Find his overall profit or loss percentage.
 
 ### Section D: Case Study Based Questions (4 Marks Each)
