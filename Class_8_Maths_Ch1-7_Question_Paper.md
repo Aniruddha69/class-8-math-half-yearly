@@ -138,14 +138,10 @@ Choose the correct option.
 **5 × 2 = 10 marks**
 
 21. Simplify:
-$$
-\frac{5}{6}-\frac{7}{12}+\frac{1}{4}
-$$
+$\frac{5}{6}-\frac{7}{12}+\frac{1}{4}$
 
 22. Solve:
-$$
-4x+7=31
-$$
+$4x+7=31$
 
 23. Find the square root of 2025 by prime factorisation.
 
@@ -159,14 +155,10 @@ $$
 **6 × 3 = 18 marks**
 
 26. Simplify:
-$$
-\left(-\frac{3}{4}\right)\times\frac{8}{9}\div\left(-\frac{2}{3}\right)
-$$
+$\left(-\frac{3}{4}\right)\times\frac{8}{9}\div\left(-\frac{2}{3}\right)$
 
 27. Solve:
-$$
-5(2x-3)=3(x+7)
-$$
+$5(2x-3)=3(x+7)$
 
 28. The angles of a quadrilateral are in the ratio $2:3:4:6$. Find all four angles.
 
@@ -182,12 +174,10 @@ $$
 **3 × 4 = 12 marks**
 
 32. Simplify and express the answer in standard form:
-$$
-\frac{(2^5\times2^{-3})}{2^{-2}}
-$$
+$\frac{(2^5\times2^{-3})}{2^{-2}}$
 Also state the laws of exponents used.
 
-33. A shopkeeper marks an article at ₹2,500 and gives a discount of 12%. Find:
+34. A shopkeeper marks an article at ₹2,500 and gives a discount of 12%. Find:
    1. The discount amount.
    2. The selling price.
    3. The percentage of the marked price represented by the selling price.
