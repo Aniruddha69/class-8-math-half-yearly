@@ -521,7 +521,7 @@ $$
 Percentage decrease:
 
 $$
-\frac{20}{500}\times100=\boxed{4\%}
+\frac{20}{500}\times100=\boxed{4\\%}
 $$
 
 So there is a **net decrease of 4%**. The two percentage changes are applied to different bases, so a 20% increase followed by a 20% decrease does not cancel out.
