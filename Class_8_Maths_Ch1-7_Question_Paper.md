@@ -233,7 +233,7 @@ iii. If $AB=12$ cm and $BC=8$ cm, find its perimeter.
  iv. State the property of opposite angles used.
 
 ---
-<!--
+
 # Answer Key / Solutions
 
 ## Section A — MCQs
@@ -338,15 +338,19 @@ $$
 
 ### 28.
 Ratio sum:
+
 $$
 2+3+4+6=15
 $$
+
 One part:
+
 $$
 360^\circ\div15=24^\circ
 $$
 
 Angles:
+
 $$
 2(24)=48^\circ,\quad3(24)=72^\circ,\quad4(24)=96^\circ,\quad6(24)=144^\circ
 $$
@@ -354,12 +358,15 @@ $$
 **Answer:** $\boxed{48^\circ,72^\circ,96^\circ,144^\circ}$
 
 ### 29.
+
 $$
 180=2^2\times3^2\times5
 $$
+
 Only $5$ has an unpaired factor.
 
 Therefore multiply by $5$:
+
 $$
 180\times5=900=30^2
 $$
@@ -367,12 +374,15 @@ $$
 **Answer:** $\boxed{5}$
 
 ### 30.
+
 $$
 675=3^3\times5^2
 $$
+
 For a perfect cube, all prime exponents must be multiples of 3.
 
 Divide by $5^2=25$:
+
 $$
 675\div25=27=3^3
 $$
@@ -381,9 +391,11 @@ $$
 
 ### 31.
 Workers and days are inversely proportional:
+
 $$
 12\times15=x\times9
 $$
+
 $$
 x=\frac{180}{9}=\boxed{20}
 $$
@@ -393,15 +405,20 @@ $$
 ## Section D — 4-Mark Solutions
 
 ### 32.
+
 $$
 \frac{2^5\times2^{-3}}{2^{-2}}
 $$
+
 Using $a^m\times a^n=a^{m+n}$:
+
 $$
 =\frac{2^{5-3}}{2^{-2}}
 =\frac{2^2}{2^{-2}}
 $$
+
 Using $\frac{a^m}{a^n}=a^{m-n}$:
+
 $$
 =2^{2-(-2)}
 =2^4
@@ -416,22 +433,24 @@ $$
 Marked price $=₹2500$
 
 Discount:
-$$
-12\%\text{ of }2500=\frac{12}{100}\times2500=₹300
-$$
+
+$$ 12\\%\text{ of }2500=\frac{12}{100}\times2500=300$$
 
 Selling price:
+
 $$
 2500-300=\boxed{₹2200}
 $$
 
 Selling price as percentage of marked price:
+
 $$
-\frac{2200}{2500}\times100=\boxed{88\%}
+\frac{2200}{2500}\times100=\boxed{88\\%}
 $$
 
 ### 34.
 Outer dimensions:
+
 $$
 24\text{ m}\times18\text{ m}
 $$
@@ -439,26 +458,31 @@ $$
 Since the path is 2 m wide on every side:
 
 Inner length:
+
 $$
 24-2-2=20\text{ m}
 $$
 
 Inner breadth:
+
 $$
 18-2-2=14\text{ m}
 $$
 
 Inner area:
+
 $$
 20\times14=\boxed{280\text{ m}^2}
 $$
 
 Outer area:
+
 $$
 24\times18=432\text{ m}^2
 $$
 
 Path area:
+
 $$
 432-280=\boxed{152\text{ m}^2}
 $$
@@ -471,26 +495,31 @@ $$
 Original number $=500$
 
 After 20% increase:
+
 $$
 500+\frac{20}{100}\times500=600
 $$
 
 After 20% decrease:
+
 $$
 600-\frac{20}{100}\times600=480
 $$
 
 Final number:
+
 $$
 \boxed{480}
 $$
 
 Net change:
+
 $$
 500-480=20
 $$
 
 Percentage decrease:
+
 $$
 \frac{20}{500}\times100=\boxed{4\%}
 $$
@@ -501,44 +530,54 @@ So there is a **net decrease of 4%**. The two percentage changes are applied to 
 Let breadth $=x$ m.
 
 Length:
+
 $$
 =2x+10
 $$
 
 Perimeter:
+
 $$
 2(l+b)=180
 $$
 
 Therefore:
+
 $$
 2(2x+10+x)=180
 $$
+
 $$
 2(3x+10)=180
 $$
+
 $$
 6x+20=180
 $$
+
 $$
 6x=160
 $$
+
 $$
 x=\frac{80}{3}\text{ m}
 $$
 
 Thus breadth:
+
 $$
 \boxed{\frac{80}{3}\text{ m}}
 $$
 
 Length:
+
 $$
 2\left(\frac{80}{3}\right)+10
 =\frac{190}{3}\text{ m}
 $$
 
 Area:
+
 $$
 \frac{190}{3}\times\frac{80}{3}
 =\boxed{\frac{15200}{9}\text{ m}^2}
@@ -546,59 +585,72 @@ $$
 
 ### 37.
 Volume of cube:
+
 $$
 a^3=15625
 $$
 
 Since:
+
 $$
 25^3=15625
 $$
 
 Edge:
+
 $$
 \boxed{25\text{ cm}}
 $$
 
 Total surface area:
+
 $$
 6a^2=6(25^2)=6(625)=\boxed{3750\text{ cm}^2}
 $$
 
 Total length of 12 edges:
+
 $$
 12a=12(25)=\boxed{300\text{ cm}}
 $$
 
 ### 38.
 Adjacent angles of a parallelogram are supplementary:
+
 $$
 (3x+10)+(2x+20)=180
 $$
+
 $$
 5x+30=180
 $$
+
 $$
 5x=150
 $$
+
 $$
 \boxed{x=30}
 $$
 
 Therefore:
+
 $$
 \angle A=3(30)+10=\boxed{100^\circ}
 $$
+
 $$
 \angle B=2(30)+20=\boxed{80^\circ}
 $$
 
 Opposite angles are equal:
+
 $$
 \angle C=100^\circ,\qquad\angle D=80^\circ
 $$
 
 Perimeter:
+
 $$
 2(AB+BC)=2(12+8)=\boxed{40\text{ cm}}
 $$
