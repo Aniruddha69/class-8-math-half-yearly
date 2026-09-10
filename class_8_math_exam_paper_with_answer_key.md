@@ -258,8 +258,11 @@ During a festive season, an electronics store offers special discounts. Rahul wa
 ### Section E: Long Answer Questions Type II (5 Marks Each)
 
 **35.** Half of a herd of deer are grazing in the field, and three-fourths of the remaining are playing nearby. The rest, $9$ deer, are drinking water from the pond. Find the total number of deer in the herd.
+
 **36.** Find the compound interest on ₹$12,600$ for $2$ years at $10\%$ per annum compounded annually.
+
 **37.** The favorite sports of $72$ students in a class are recorded as follows: Cricket ($36$), Football ($18$), Tennis ($12$), and Badminton ($6$). Show all calculations for the central angles and draw a rough sketch of a pie chart representing this data.
+
 **38.** Is $53240$ a perfect cube? If not, find the smallest whole number by which $53240$ must be divided so that the quotient is a perfect cube. Show all prime factorization steps.
 
 <div style="page-break-after: always;"></div>
