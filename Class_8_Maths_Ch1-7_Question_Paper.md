@@ -185,7 +185,7 @@ Also state the laws of exponents used.
 
 iii. The percentage of the marked price represented by the selling price.
 
-35. A rectangular garden is 24 m long and 18 m wide. A path of uniform width 2 m is constructed inside the garden along all four sides. Find:
+34. A rectangular garden is 24 m long and 18 m wide. A path of uniform width 2 m is constructed inside the garden along all four sides. Find:
     
   i. The dimensions of the remaining inner rectangle.
 
@@ -206,7 +206,7 @@ iii. The area covered by the path.
 
 iii. Explain why the final number is not equal to the original number.
 
-37. The perimeter of a rectangular field is 180 m. Its length is 10 m more than twice its breadth.
+36. The perimeter of a rectangular field is 180 m. Its length is 10 m more than twice its breadth.
 
   i. Form a linear equation.
 
@@ -214,7 +214,7 @@ iii. Explain why the final number is not equal to the original number.
 
 iii. Find its area.
 
-38. A cubical box has a volume of $15,625\text{ cm}^3$.
+37. A cubical box has a volume of $15,625\text{ cm}^3$.
 
   i. Find the length of one edge.
 
@@ -222,7 +222,7 @@ iii. Find its area.
 
 iii. Find its total length of all 12 edges.
 
-39. In a parallelogram $ABCD$, $\angle A=(3x+10)^\circ$ and $\angle B=(2x+20)^\circ$.
+38. In a parallelogram $ABCD$, $\angle A=(3x+10)^\circ$ and $\angle B=(2x+20)^\circ$.
 
   i. Find $x$.
 
