@@ -177,15 +177,21 @@ $5(2x-3)=3(x+7)$
 $\frac{(2^5\times2^{-3})}{2^{-2}}$
 Also state the laws of exponents used.
 
-34. A shopkeeper marks an article at ₹2,500 and gives a discount of 12%. Find:
-   1. The discount amount.
-   2. The selling price.
-   3. The percentage of the marked price represented by the selling price.
+33. A shopkeeper marks an article at ₹2,500 and gives a discount of 12%. Find:
 
-34. A rectangular garden is 24 m long and 18 m wide. A path of uniform width 2 m is constructed inside the garden along all four sides. Find:
-   1. The dimensions of the remaining inner rectangle.
-   2. Its area.
-   3. The area covered by the path.
+  i. The discount amount.
+
+ ii. The selling price.
+
+iii. The percentage of the marked price represented by the selling price.
+
+35. A rectangular garden is 24 m long and 18 m wide. A path of uniform width 2 m is constructed inside the garden along all four sides. Find:
+    
+  i. The dimensions of the remaining inner rectangle.
+
+ ii. Its area.
+
+iii. The area covered by the path.
 
 ---
 
@@ -193,25 +199,38 @@ Also state the laws of exponents used.
 **4 × 5 = 20 marks**
 
 35. A number is increased by 20% and then decreased by 20%.
-   1. If the original number is 500, find the final number.
-   2. Find the net percentage change.
-   3. Explain why the final number is not equal to the original number.
+    
+  i. If the original number is 500, find the final number.
 
-36. The perimeter of a rectangular field is 180 m. Its length is 10 m more than twice its breadth.
-   1. Form a linear equation.
-   2. Find the length and breadth of the field.
-   3. Find its area.
+ ii. Find the net percentage change.
 
-37. A cubical box has a volume of $15,625\text{ cm}^3$.
-   1. Find the length of one edge.
-   2. Find its total surface area.
-   3. Find its total length of all 12 edges.
+iii. Explain why the final number is not equal to the original number.
 
-38. In a parallelogram $ABCD$, $\angle A=(3x+10)^\circ$ and $\angle B=(2x+20)^\circ$.
-   1. Find $x$.
-   2. Find all four angles of the parallelogram.
-   3. If $AB=12$ cm and $BC=8$ cm, find its perimeter.
-   4. State the property of opposite angles used.
+37. The perimeter of a rectangular field is 180 m. Its length is 10 m more than twice its breadth.
+
+  i. Form a linear equation.
+
+ ii. Find the length and breadth of the field.
+
+iii. Find its area.
+
+38. A cubical box has a volume of $15,625\text{ cm}^3$.
+
+  i. Find the length of one edge.
+
+ ii. Find its total surface area.
+
+iii. Find its total length of all 12 edges.
+
+39. In a parallelogram $ABCD$, $\angle A=(3x+10)^\circ$ and $\angle B=(2x+20)^\circ$.
+
+  i. Find $x$.
+
+ ii. Find all four angles of the parallelogram.
+
+iii. If $AB=12$ cm and $BC=8$ cm, find its perimeter.
+
+ iv. State the property of opposite angles used.
 
 ---
 <!--
